@@ -1,0 +1,121 @@
+.border{
+    color: black;
+}
+
+
+
+
+thead{
+    background-color: blanchedalmond;
+}
+
+tbody{
+   background-color: burlywood;
+}
+
+tfoot1{
+    background-color: aquamarine;
+}
+
+
+table{
+   background-color: cadetblue;
+    width: 100%;
+  
+}
+td,th{
+    background-color: darkgray;
+    font-size: 1.5rem;
+    border-radius: 1px;
+
+}
+
+td{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    
+
+}
+
+
+h1{
+    position: relative;
+    left: 650px;
+    bottom:50px;
+    background-color: white;
+    display: inline-block;
+    font-style: italic;
+
+}
+
+
+tr:nth-child(even){
+    background-color: aqua;
+}
+td:nth-child(odd){
+    background-color: azure;
+}
+td:nth-child(odd){
+    background-color: cadetblue;
+}
+
+#logo{
+    position: relative;
+    left: 400px;
+    bottom:70px;
+    top:30px;
+    width: 70px;
+    height: 70px;
+    background-color: blanchedalmond;
+}
+
+
+#h2{
+    position: relative;
+    right: 650px;
+    top: 200px;
+    background-color: white;
+    display: inline-block;
+
+    
+}
+
+#caption1{
+    position:relative;
+    bottom:680px;
+    
+}
+
+
+
+#caption2{
+    position: relative;
+    bottom: 695px;
+    display: inline-block;
+
+    
+    
+
+
+}
+
+
+table {
+    border-collapse: collapse;
+    
+  }
+
+  #scan{
+    position:relative;
+    right:50px;
+    width:50px;
+    height:50px;
+    background-color: bisque;
+  }
+
+
+
+  
+
+ 
